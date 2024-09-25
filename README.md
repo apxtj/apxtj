@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# 📊 LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/apxtj?ext=activity)
 <!--
 **apxtj/apxtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
