@@ -5,9 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=apxtj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=apxtj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apxtj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apxtj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+https://lapras-card-generator.vercel.app/?e=0&b=0&i=0&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en&u=apxtj
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apxtj&icon=0&color=0)](https://visitcount.itsvg.in)
