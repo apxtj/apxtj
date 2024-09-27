@@ -12,15 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=apxtj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=apxtj&icon=9&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=apxtj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **apxtj/apxtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
